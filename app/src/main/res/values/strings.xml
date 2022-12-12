@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Booking Kamar Hotel</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="rp_500_000"><strike>Rp 500.000</strike></string>
+    <string-array name="hotels">
+        <item>Balava Hotel Malang</item>
+        <item>Ijen Suites Hotel</item>
+        <item>Solaris Hotel Malang</item>
+    </string-array>
+    <string-array name="star">
+        <item>5.0</item>
+        <item>5.0</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="harga">
+        <item>Rp. 550.000</item>
+        <item>Rp. 650.000</item>
+        <item>Rp. 500.000</item>
+    </string-array>
+    <string name="todo">TODO</string>
+    <string name="overview">Overview</string>
+</resources>
